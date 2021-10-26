@@ -39,6 +39,9 @@ Tratar los datos del sensor
 Pasamos de 0-023 a una temperatura 
 Decidir que leds se encienden
 
+if (temperature <baselineTemp){
+
+
 
 ## Introduccion teoria
 
