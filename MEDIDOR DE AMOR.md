@@ -52,7 +52,11 @@ if (temperature <baselineTemp){
 
  [-Circuito:](https://github.com/Ainhoa0512/ARDUINO/blob/main/love_o_meter.ino)
 
--Foto circuito
+-Foto circuito:
+
+
+![Captura de pantalla de 2021-10-26 13-48-02](https://user-images.githubusercontent.com/90753279/138871619-b5ecc928-3e10-4e5e-9f1e-46c0a70fec44.png)
+
 
 ## Código
 
