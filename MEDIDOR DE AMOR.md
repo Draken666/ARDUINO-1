@@ -50,7 +50,7 @@ if (temperature <baselineTemp){
 
 -Materiales necesarios
 
--Circuito: [](https://github.com/Ainhoa0512/ARDUINO/blob/main/love_o_meter.ino)
+ [-Circuito:](https://github.com/Ainhoa0512/ARDUINO/blob/main/love_o_meter.ino)
 
 -Foto circuito
 
